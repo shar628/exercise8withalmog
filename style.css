@@ -44,3 +44,24 @@ p {
 .content-text-a {
     display: flex;
 }
+.section-d {
+    display: flex;
+    color: white;
+}
+.box-left {
+    width: 50%;
+    background-color: rgb(6, 104, 121);
+}
+.box-right {
+    width: 50%;
+    background-color: black;
+}
+.content-title {
+    text-align: center;
+}
+.main-footer {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+}
