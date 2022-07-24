@@ -42,12 +42,17 @@ p {
 }
 .section-b {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     background-color: aqua;
 }
 .card {
-width: 7rem;
+width: 4rem;
+padding: 1rem;
 
+}
+img {
+    max-width: 700px;
+    max-height: 100px;
 }
 .section-d {
     display: flex;
