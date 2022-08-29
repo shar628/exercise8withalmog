@@ -1,0 +1,41 @@
+[
+    {
+        "id": 563,
+        "uid": "dec8e2f5-950f-4f08-b0e6-8a60eff03e34",
+        "password": "U92xgfCI1Q",
+        "first_name": "Lavette",
+        "last_name": "Daugherty",
+        "username": "lavette.daugherty",
+        "email": "lavette.daugherty@email.com",
+        "avatar": "https://robohash.org/sintautemnumquam.png?size=300x300&set=set1",
+        "gender": "Non-binary",
+        "phone_number": "+232 494-070-9831 x74894",
+        "social_insurance_number": "728623455",
+        "date_of_birth": "1970-11-22",
+        "employment": {
+          "title": "Legacy Banking Agent",
+          "key_skill": "Teamwork"
+        },
+        "address": {
+          "city": "Lake Ashanti",
+          "street_name": "Lucienne Lock",
+          "street_address": "3812 Purdy Plaza",
+          "zip_code": "38142",
+          "state": "Arizona",
+          "country": "United States",
+          "coordinates": {
+            "lat": 49.54774260249161,
+            "lng": 129.92724217001353
+          }
+        },
+        "credit_card": {
+          "cc_number": "4271-8126-8827-7732"
+        },
+        "subscription": {
+          "plan": "Professional",
+          "status": "Idle",
+          "payment_method": "Google Pay",
+          "term": "Payment in advance"
+        }
+      }
+]
