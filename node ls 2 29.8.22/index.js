@@ -8,6 +8,8 @@ const api2 = require('./api2.json')
 const api3 = require('./api3.json')
 const api4 = require('./api4.json')
 const api5 = require('./api5.json')
+const api60 = require('./api60.json')
+
 
 
 // fs.writeFile("./api5.json", JSON.stringify(api5, () => {
@@ -44,6 +46,9 @@ app.get('/api5', (req, res) => {
     res.send(JSON.stringify(api5))
 })
 
+app.get('/api60', (req, res) => {
+    res.send(JSON.stringify(api60))
+});
 
 
 app.listen(8000, () => {
